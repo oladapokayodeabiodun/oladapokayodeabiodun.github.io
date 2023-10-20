@@ -8,6 +8,7 @@ My areas of interest are; Information Systems, Data Science, Artificial Intellig
 ###### View my site: https://sites.google.com/view/kayodeabiodunoladapo
 
 ### First Semester Courses 
+
 Course Code | Course Title   | Course Title      | Course Link
 ------------ | -------------  | -------------   | -------------
 CMP 301 | Digital Design and Computer Architecture I  | First Semester | https://oladapokayodeabiodun.github.io/cmp301
@@ -20,6 +21,7 @@ CMP 811 | Artificial Intelligence   | First Semester | https://oladapokayodeabio
 
 
 ### Second Semester Courses 
+
 Course Code | Course Title   | Course Title      | Course Link
 ------------ | -------------  | -------------   | -------------
 CMP 402 | Object-Oriented Programming  | Second Semester | https://oladapokayodeabiodun.github.io/cmp402
