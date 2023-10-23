@@ -12,12 +12,14 @@ My areas of interest are; Information Systems, Data Science, Artificial Intellig
 Course Code | Course Title   | Course Title      | Course Link
 ------------ | -------------  | -------------   | -------------
 CMP 301 | Digital Design and Computer Architecture I  | First Semester | https://oladapokayodeabiodun.github.io/cmp301
-CMP 309 | Database Design and Management  | First Semester | https://oladapokayodeabiodun.github.io
+CMP 309 | Database Design and Management  | First Semester | <a href="doc:cmp309" target="_cmp309">CMP 309</a>
 CMP 405 | Artificial Intelligence  | First Semester | https://oladapokayodeabiodun.github.io/cmp405
 CMP 411 | Algorithm and Complexity Analysis  | First Semester | https://oladapokayodeabiodun.github.io/cmp411
 PDC 709 | Object Oriented Programming Language I  | First Semester | https://oladapokayodeabiodun.github.io/pdc709
 CMP 801 | Advanced Programming Techniques  | First Semester | https://oladapokayodeabiodun.github.io/cmp801
 CMP 811 | Artificial Intelligence   | First Semester | https://oladapokayodeabiodun.github.io/cmp811
+
+<a href="doc:introduction" target="_blank">Introduction</a>
 
 
 ### Second Semester Courses 
