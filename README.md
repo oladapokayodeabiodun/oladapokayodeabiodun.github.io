@@ -1,4 +1,4 @@
-remote_theme: pages-themes/architect@v0.2.0
+theme: minimal
 
   
 ###### "_Every student needs a grandparent to link them to the past and a PC to take them to the future_" :octocat:
