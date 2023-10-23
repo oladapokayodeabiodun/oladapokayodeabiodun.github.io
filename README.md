@@ -25,9 +25,9 @@ Course Code | Course Title   | Course Title      | Course Link
 ------------ | -------------  | -------------   | -------------
 CMP 402 | Object-Oriented Programming  | Second Semester | [CMP 402 Course Link](https://oladapokayodeabiodun.github.io/cmp402)
 CMP 412 | Modeling and Simulation  | Second Semester | [CMP 412 Course Link](https://oladapokayodeabiodun.github.io/cmp412)
-CMP 702 | Data Structure and Algorithm Analysis     | [CMP 702 Course Link](https://oladapokayodeabiodun.github.io/cmp702)
+CMP 702 | Data Structure and Algorithm Analysis | Second Semester | [CMP 702 Course Link](https://oladapokayodeabiodun.github.io/cmp702)
 CMP 712 | Operating System      | Second Semester | [CMP 712 Course Link](https://oladapokayodeabiodun.github.io/cmp712)
-CMP 802 | Algorithm and Complexity Analysis    | [CMP 802 Course Link](https://oladapokayodeabiodun.github.io/cmp802)
+CMP 802 | Algorithm and Complexity Analysis | Second Semester | [CMP 802 Course Link](https://oladapokayodeabiodun.github.io/cmp802)
 
 
 
