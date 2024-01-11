@@ -18,6 +18,7 @@ CMP 309 | Database Design and Management  | First Semester | [CMP 309 Course Lin
 CMP 405 | Artificial Intelligence  | First Semester | [CMP 405 Course Link](https://oladapokayodeabiodun.github.io/cmp405)
 CMP 411 | Algorithm and Complexity Analysis  | First Semester | [CMP 411 Course Link](https://oladapokayodeabiodun.github.io/cmp411)
 PDC 709 | Object Oriented Programming Language I  | First Semester | [PDC 709 Course Link](https://oladapokayodeabiodun.github.io/pdc709)
+CMP 803 | Advanced Programming Techniques  | First Semester | [CMP 801 Course Link](https://oladapokayodeabiodun.github.io/cmp803)
 CMP 809 | Advanced Programming Techniques  | First Semester | [CMP 801 Course Link](https://oladapokayodeabiodun.github.io/cmp809)
 CMP 811 | Artificial Intelligence   | First Semester | [CMP 811 Course Link](https://oladapokayodeabiodun.github.io/cmp811)
 
