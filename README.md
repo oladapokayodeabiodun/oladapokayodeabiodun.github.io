@@ -11,7 +11,8 @@ My areas of interest are; Information Systems, Data Science, Artificial Intellig
 
 Course Code | Course Title   | Course Title      | Course Link
 ------------ | -------------  | -------------   | -------------
-CSC 101 | Introduction to Computer Science | First Semester | [CMP 301 Course Link](https://oladapokayodeabiodun.github.io/csc101)
+CSC 101 | Introduction to Computer Science | First Semester | [CSC 101 Course Link](https://oladapokayodeabiodun.github.io/csc101)
+CMP 201 | Introduction to Computer Programming I  | First Semester | [CMP 201 Course Link](https://oladapokayodeabiodun.github.io/cmp201)
 CMP 301 | Digital Design and Computer Architecture I  | First Semester | [CMP 301 Course Link](https://oladapokayodeabiodun.github.io/cmp301)
 CMP 305 | Compiler Construction | First Semester | [CMP 305 Course Link](https://oladapokayodeabiodun.github.io/cmp305)
 CMP 309 | Database Design and Management  | First Semester | [CMP 309 Course Link](https://oladapokayodeabiodun.github.io/cmp309)
