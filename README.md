@@ -37,3 +37,21 @@ CMP 802 | Algorithm and Complexity Analysis | Second Semester | [CMP 802 Course 
 
 
 
+## Assignment Submission 
+
+<!-- Sample HTML Form -->
+<form action="mailto:oladapoka@mcu.edu.ng"
+method="POST"
+enctype="multipart/form-data"
+name="EmailForm">
+    Name:<br>
+    <input type="text" size="19" name="Contact-Name"><br><br>
+    Email:<br>
+    <input type="email" name="Contact-Email"><br><br> 
+    Upload your file:<br>
+    <input type="file" /><br><br>
+    Message:<br> 
+       <textarea name="message"></textarea> 
+   <button type="submit" value="Submit">Send</button>
+</form>  
+
