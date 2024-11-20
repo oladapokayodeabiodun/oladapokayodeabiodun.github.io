@@ -1,4 +1,4 @@
-###### "_Every student needs a grandparent to link them to the past and a PC to take them to the future_" :octocat
+![image](https://github.com/user-attachments/assets/ef6a53aa-bc63-483a-8361-24b71dbd64a2)###### "_Every student needs a grandparent to link them to the past and a PC to take them to the future_" :octocat
 
 
 I am Dr Kayode Abiodun OLADAPO. Currently a faculty member in Computer Science.
@@ -36,12 +36,39 @@ CMP 802 | Algorithm and Complexity Analysis | Second Semester | [CMP 802 Course 
 CSC 814 | ICT and Research Methodology | Second Semester | [CSC 814 Course Link](https://oladapokayodeabiodun.github.io/csc814)
 
 
+### Association of National Accountants of Nigeria (ANAN)
+
+Course Code | Course Title   | Course Title      | Course Link
+------------ | -------------  | -------------   | -------------
+PEA 1 | Information Technology For Business  | Module One to Six | [PEA 1 Course Link](https://oladapokayodeabiodun.github.io/pea1)
+
 ### Society for West African Internal Audit Practitioners (SWAIAP) 
 
 Course Code | Course Title   | Course Title      | Course Link
 ------------ | -------------  | -------------   | -------------
-
-
+AWAIA | Advanced Computer Operations (Excel 2016 Essential Course)  | Stream I | [Course Material Link](https://oladapokayodeabiodun.github.io/acoe)
+AWAIA | Advanced Computer Operations (Powerpoint 2016 Essential Course)  | Stream I | [Course Material Link](https://oladapokayodeabiodun.github.io/acop)
+AWAIA | Advanced Computer Operations (Word 2016 Essential Course)  | Stream I | [Course Material Link](https://oladapokayodeabiodun.github.io/acow)
+CWAIA | Artificial Intelligence In Relation to Internal Audit  | Stream II | [Course Material Link](https://oladapokayodeabiodun.github.io/aiia)
+AWAIA | Auditing The Information Technology Environment, The Requirement Of Internal Auditor  | Stream II | [Course Material Link](https://oladapokayodeabiodun.github.io/aift)
+AWAIA | Auditing with Data Analytics  | Stream II | [Course Material Link](https://oladapokayodeabiodun.github.io/ada)
+AWAIA | Big Data Analytics  | Stream I | [Course Material Link](https://oladapokayodeabiodun.github.io/bda)
+CWAIA | Big Data Analytics Advanced | Stream I | [Course Material Link](https://oladapokayodeabiodun.github.io/bdaa)
+AWAIA | Computer Aided Audit Technique (CAAT)  | Stream II | [Course Material Link](https://oladapokayodeabiodun.github.io/bda)
+STWAIA | Computer Aided Audit Technique (CAAT) Basic | Stream II |[Course Material Link](https://oladapokayodeabiodun.github.io/bda)
+CWAIA | Computer Aided Audit Technique (CAAT) Advanced | Stream I | [Course Material Link](https://oladapokayodeabiodun.github.io/bda)
+AWAIA | Data Analytics for Internal Auditor | Stream III | [Course Material Link](https://oladapokayodeabiodun.github.io/bda)
+AWAIA | Data Analytics Tools and Techniques | Stream III | [Course Material Link](https://oladapokayodeabiodun.github.io/bda)
+CWAIA | Data Analytics for Internal Auditor Getting Started and Beyond| Stream III | [Course Material Link](https://oladapokayodeabiodun.github.io/bda)
+CWAIA | Digital Forensic and Ethical Hacking  | Stream III | [Course Material Link](https://oladapokayodeabiodun.github.io/dfeh)
+AWAIA | Information Security  | Stream II | [Course Material Link](https://oladapokayodeabiodun.github.io/dfeh)
+AWAIA | Information Security Management System | Stream III | [Course Material Link](https://oladapokayodeabiodun.github.io/dfeh)
+AWAIA | Information System Acquisition, Development and Implementation | Stream II | [Course Material Link](https://oladapokayodeabiodun.github.io/dfeh)
+CWAIA | Information System Operations, Maintenance and Service Management | Stream I  | [Course Material Link](https://oladapokayodeabiodun.github.io/dfeh)
+AWAIA | Intermediate Decision Support Analytics | Stream II | [Course Material Link](https://oladapokayodeabiodun.github.io/dfeh)
+AWAIA | Information Technology Auditing | Stream III | [Course Material Link](https://oladapokayodeabiodun.github.io/dfeh)
+AWAIA | Managing the Internal Audit Functions | Stream I | [Course Material Link](https://oladapokayodeabiodun.github.io/dfeh)
+CWAIA | Protection of Information Assets | Stream II | [Course Material Link](https://oladapokayodeabiodun.github.io/dfeh)
 
 
 
