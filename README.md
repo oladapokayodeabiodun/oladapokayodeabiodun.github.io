@@ -21,7 +21,7 @@ CMP 411 | Algorithm and Complexity Analysis  | First Semester | [CMP 411 Course 
 PDC 709 | Object Oriented Programming Language I  | First Semester | [PDC 709 Course Link](https://oladapokayodeabiodun.github.io/pdc709)
 PDC 711 | Database Management System  | First Semester | [PDC 711 Course Link](https://oladapokayodeabiodun.github.io/pdc711)
 CMP 803 | Concurrent and Distributed Systems  | First Semester | [CMP 803 Course Link](https://oladapokayodeabiodun.github.io/cmp803)
-CMP 809 / CSC 816 | Advanced Programming Techniques  | First Semester | [CMP 809/ CSC 816 Course Link](https://oladapokayodeabiodun.github.io/cmp809)
+CMP 809 | CSC 816 | Advanced Programming Techniques  | First Semester | [CMP 809/ CSC 816 Course Link](https://oladapokayodeabiodun.github.io/cmp809)
 CMP 811 | Artificial Intelligence   | First Semester | [CMP 811 Course Link](https://oladapokayodeabiodun.github.io/cmp811)
 
 ### Second Semester Courses 
@@ -44,8 +44,8 @@ PEA 1 | Information Technology For Business  | Module One to Six | [PEA 1 Course
 
 ### Society for West African Internal Audit Practitioners (SWAIAP) 
 
-Course Code | Course Title   | Course Title      | Course Link
------------- | ---------------------------------------  | -------------   | --------------------------
+Course Category | Course Title   | Course Title      | Course Link
+--------------- | ---------------------------------------  | -------------   | --------------------------
 AWAIA | Advanced Computer Operations (Excel 2016 Essential Course)  | Stream I | [Course Material Link](https://oladapokayodeabiodun.github.io/acoe)
 AWAIA | Advanced Computer Operations (Powerpoint 2016 Essential Course)  | Stream I | [Course Material Link](https://oladapokayodeabiodun.github.io/acop)
 AWAIA | Advanced Computer Operations (Word 2016 Essential Course)  | Stream I | [Course Material Link](https://oladapokayodeabiodun.github.io/acow)
