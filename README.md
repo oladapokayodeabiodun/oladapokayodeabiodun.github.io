@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ef6a53aa-bc63-483a-8361-24b71dbd64a2)###### "_Every student needs a grandparent to link them to the past and a PC to take them to the future_" :octocat
+###### "_Every student needs a grandparent to link them to the past and a PC to take them to the future_" :octocat
 
 
 I am Dr Kayode Abiodun OLADAPO. Currently a faculty member in Computer Science.
