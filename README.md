@@ -45,7 +45,7 @@ PEA 1 | Information Technology For Business  | Module One to Six | [PEA 1 Course
 ### Society for West African Internal Audit Practitioners (SWAIAP) 
 
 Course Code | Course Title   | Course Title      | Course Link
------------- | -------------  | -------------   | -------------
+------------ | ---------------------------------------  | -------------   | --------------------------
 AWAIA | Advanced Computer Operations (Excel 2016 Essential Course)  | Stream I | [Course Material Link](https://oladapokayodeabiodun.github.io/acoe)
 AWAIA | Advanced Computer Operations (Powerpoint 2016 Essential Course)  | Stream I | [Course Material Link](https://oladapokayodeabiodun.github.io/acop)
 AWAIA | Advanced Computer Operations (Word 2016 Essential Course)  | Stream I | [Course Material Link](https://oladapokayodeabiodun.github.io/acow)
