@@ -13,7 +13,7 @@ The aim of this subject is to enable students develop an understanding of the ro
 *	Email: oladapoka@mcu.edu.ng
 
 ## Course Materials 
-* [Click Here for PEA 1 Study Manual ](Information Systems and Technology for Business.pdf)
+* [Click Here for PEA 1 Study Manual ](Information_Systems_and_Technology_for_Business.pdf)
 
 ## Course Module  
 ### Module One: Information Systems
