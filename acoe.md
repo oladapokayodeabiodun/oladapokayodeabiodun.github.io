@@ -80,3 +80,4 @@ o Remove duplicate records
 *	Email: oladapoka@mcu.edu.ng
 
 ## Main Course 
+* [Click Here to download the Lecture Slide](ADVANCED COMPUTER OPERATIONS (EXCEL 2016 ESSENTIALS COURSE).pptx)
