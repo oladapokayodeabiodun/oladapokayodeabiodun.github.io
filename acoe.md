@@ -81,3 +81,5 @@ o Remove duplicate records
 
 ## Main Course 
 * [Click Here to download the Lecture Slide](ADVANCED COMPUTER OPERATIONS (EXCEL 2016 ESSENTIALS COURSE).pptx)
+* https://github.com/oladapokayodeabiodun/oladapokayodeabiodun.github.io/blob/48f1511f5df287be7363a79727d275ac40ad7381/ADVANCED%20COMPUTER%20OPERATIONS%20(EXCEL%202016%20ESSENTIALS%20COURSE).pptx
+* 
