@@ -13,7 +13,7 @@ The aim of this subject is to enable students develop an understanding of the ro
 *	Email: oladapoka@mcu.edu.ng
 
 ## Course Materials 
-* [Click Here for PEA 1 Study Manual ](Information_Systems_and_Technology_for_Business.pdf)
+* [Click Here to download the PEA 1 Study Manual ](Information_Systems_and_Technology_for_Business.pdf)
 
 ## Course Module  
 ### Module One: Information Systems
@@ -23,7 +23,7 @@ The aim of this subject is to enable students develop an understanding of the ro
 * Data Processing Cycle
 * Computer Networking
 * Systems Development
-* [Click Here for Summary of Module One](Information_Technology_-_PEA_1_Module_1.pdf)
+* [Click Here to download the Summary of Module One](Information_Technology_-_PEA_1_Module_1.pdf)
 
 ### Module Two: Information Technology
 * Information Technology Infrastructure
@@ -43,7 +43,7 @@ The aim of this subject is to enable students develop an understanding of the ro
 * Tools for Collaborations and Social Business
 * Collaboration and Social Business Platforms
 * Networking and Communication
-* [Click Here for Summary of Module Two](Information_Technology_-_PEA_MODULE_2.pdf)
+* [Click Here to download the Summary of Module Two](Information_Technology_-_PEA_MODULE_2.pdf)
 
 ### Module Three: Electronic Business and Cloud Computing
 * The Internet; New Information Infrastructure for the Digital Organization
@@ -62,7 +62,7 @@ The aim of this subject is to enable students develop an understanding of the ro
 * Private and Public Clouds
 * Green Computing
 * Service Level Agreements (SLAs) for Cloud-Based I.T Resources
-* [Click Here for Summary of Module Three](Information_Technology_-_PEA_MODULE_3.pdf)
+* [Click Here to download the Summary of Module Three](Information_Technology_-_PEA_MODULE_3.pdf)
 
 ### Module Four: Enterprise Application
 * Enterprise Applications
@@ -73,7 +73,7 @@ The aim of this subject is to enable students develop an understanding of the ro
 * Business Intelligence and Analytics
 * Business Intelligence Environment
 * Business Intelligence and Analytics Capabilities
-* [Click Here for Summary of Module Four](Information_Technology_-_PEA_MODULE_4.pdf)
+* [Click Here to download the Summary of Module Four](Information_Technology_-_PEA_MODULE_4.pdf)
 
 ### Module Five: System Security and Controls
 * Protecting Information Systems from Destruction, Error and Abuse
@@ -88,7 +88,7 @@ The aim of this subject is to enable students develop an understanding of the ro
 * Disaster Recovery Planning
 * Quality Control and Quality Assurance
 * Tools and Technologies for Safeguarding Information Resources
-* [Click Here for Summary of Module One](Information_Technology_-_PEA_MODULE_5.pdf)
+* [Click Here to download the Summary of Module One](Information_Technology_-_PEA_MODULE_5.pdf)
 
 ### Module Six: 4th Revolution Technologies and Accounting Application
 * Blockchain Fundamentals for Accounting and Finance Professionals
