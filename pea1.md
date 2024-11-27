@@ -13,7 +13,7 @@ The aim of this subject is to enable students develop an understanding of the ro
 *	Email: oladapoka@mcu.edu.ng
 
 ## Course Materials 
-[Click Here for PEA 1](CMP 405 Week 6 - 7 - (Knowledge Representation).pdf)
+* [Click Here for PEA 1 Study Manual ]()
 
 ## Course Module  
 ### Module One: Information Systems
