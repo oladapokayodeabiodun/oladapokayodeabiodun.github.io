@@ -21,7 +21,7 @@ CMP 411 | Algorithm and Complexity Analysis  | First Semester | [CMP 411 Course 
 PDC 709 | Object Oriented Programming Language I  | First Semester | [PDC 709 Course Link](https://oladapokayodeabiodun.github.io/pdc709)
 PDC 711 | Database Management System  | First Semester | [PDC 711 Course Link](https://oladapokayodeabiodun.github.io/pdc711)
 CMP 803 | Concurrent and Distributed Systems  | First Semester | [CMP 803 Course Link](https://oladapokayodeabiodun.github.io/cmp803)
-CMP 809 | CSC 816 | Advanced Programming Techniques  | First Semester | [CMP 809/ CSC 816 Course Link](https://oladapokayodeabiodun.github.io/cmp809)
+CMP 809/CSC 816 | Advanced Programming Techniques  | First Semester | [CMP 809/ CSC 816 Course Link](https://oladapokayodeabiodun.github.io/cmp809)
 CMP 811 | Artificial Intelligence   | First Semester | [CMP 811 Course Link](https://oladapokayodeabiodun.github.io/cmp811)
 
 ### Second Semester Courses 
