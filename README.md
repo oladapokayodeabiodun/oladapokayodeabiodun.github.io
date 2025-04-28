@@ -31,6 +31,7 @@ Course Code | Course Title   | Course Title      | Course Link
 CMP 402 | Object-Oriented Programming  | Second Semester | [CMP 402 Course Link](https://oladapokayodeabiodun.github.io/cmp402)
 CMP 412 | Modeling and Simulation  | Second Semester | [CMP 412 Course Link](https://oladapokayodeabiodun.github.io/cmp412)
 PDC 702 | Data Structure and Algorithm Analysis | Second Semester | [PDC 702 Course Link](https://oladapokayodeabiodun.github.io/pdc702)
+PDC 706 | Optimization Techniques       | Second Semester | [PDC 706 Course Link](https://oladapokayodeabiodun.github.io/pdc706)
 PDC 712 | Operating System      | Second Semester | [PDC 712 Course Link](https://oladapokayodeabiodun.github.io/pdc712)
 CMP 802 | Algorithm and Complexity Analysis | Second Semester | [CMP 802 Course Link](https://oladapokayodeabiodun.github.io/cmp802)
 CSC 814 | ICT and Research Methodology | Second Semester | [CSC 814 Course Link](https://oladapokayodeabiodun.github.io/csc814)
