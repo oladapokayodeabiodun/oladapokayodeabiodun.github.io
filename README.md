@@ -33,6 +33,7 @@ PDC 702 | Data Structure and Algorithm Analysis | Second Semester | [PDC 702 Cou
 PDC 706 | Optimization Techniques       | Second Semester | [PDC 706 Course Link](https://oladapokayodeabiodun.github.io/pdc706)
 PDC 712 | Operating System      | Second Semester | [PDC 712 Course Link](https://oladapokayodeabiodun.github.io/pdc712)
 CMP 802 | Algorithm and Complexity Analysis | Second Semester | [CMP 802 Course Link](https://oladapokayodeabiodun.github.io/cmp802)
+CMP 804 | Introduction to Quantum Computing | Second Semester | [CMP 804 Course Link](https://oladapokayodeabiodun.github.io/cmp804)
 CSC 814 | ICT and Research Methodology | Second Semester | [CSC 814 Course Link](https://oladapokayodeabiodun.github.io/csc814)
 
 
